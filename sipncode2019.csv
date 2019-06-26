@@ -1,0 +1,90 @@
+Timestamp,drink_category,drink_name,drink_rating
+6/26/19 18:02,Non-Alcoholic,Blood Orange Pellegrino's,84
+6/26/19 18:03,Non-Alcoholic,Blood Orange Pellegrino's,85
+6/26/19 18:04,Non-Alcoholic,Blood Orange Pellegrino's,88
+6/26/19 18:10,Non-Alcoholic,Grapefruit LaCroix,90
+6/26/19 18:10,Non-Alcoholic,Grapefruit LaCroix,80
+6/26/19 18:11,Non-Alcoholic,Blood Orange Pellegrino's,98
+6/26/19 18:11,Non-Alcoholic,Blood Orange Pellegrino's,84
+6/26/19 18:15,Non-Alcoholic,Grapefruit LaCroix,82
+6/26/19 18:15,Non-Alcoholic,Lemonade,100
+6/26/19 18:18,Non-Alcoholic,Blood Orange Pellegrino's,98
+6/26/19 18:18,Non-Alcoholic,Grapefruit LaCroix,80
+6/26/19 18:19,Non-Alcoholic,Blood Orange Pellegrino's,100
+6/26/19 18:28,Non-Alcoholic,Lemonade,89
+6/26/19 18:29,Non-Alcoholic,Grapefruit LaCroix,82
+6/26/19 18:29,Non-Alcoholic,Lemonade,82
+6/26/19 18:44,Non-Alcoholic,Grapefruit LaCroix,93
+6/26/19 18:44,Non-Alcoholic,Blood Orange Pellegrino's,92
+6/26/19 18:52,Non-Alcoholic,Blood Orange Pellegrino's,88
+6/26/19 17:59,Wine/Champagne,Red Blend,85
+6/26/19 18:04,Wine/Champagne,Sauvignon Blanc,83
+6/26/19 18:07,Wine/Champagne,Sauvignon Blanc,85
+6/26/19 18:10,Wine/Champagne,Rose (La Vieille Ferme),90
+6/26/19 18:10,Wine/Champagne,Malbec,87
+6/26/19 18:10,Wine/Champagne,Rose (La Vieille Ferme),88
+6/26/19 18:10,Wine/Champagne,Rose (La Vieille Ferme),90
+6/26/19 18:11,Wine/Champagne,Red Blend,96
+6/26/19 18:12,Wine/Champagne,Rose (La Vieille Ferme),85
+6/26/19 18:12,Wine/Champagne,Rose (La Vieille Ferme),89
+6/26/19 18:13,Wine/Champagne,Champagne - Brut,80
+6/26/19 18:13,Wine/Champagne,Rose (La Vieille Ferme),80
+6/26/19 18:13,Wine/Champagne,Rose (La Vieille Ferme),86
+6/26/19 18:14,Wine/Champagne,Red Blend,84
+6/26/19 18:14,Wine/Champagne,Sauvignon Blanc,85
+6/26/19 18:14,Wine/Champagne,Rose (La Vieille Ferme),86
+6/26/19 18:14,Wine/Champagne,Sauvignon Blanc,91
+6/26/19 18:15,Wine/Champagne,Pinot Noir,88
+6/26/19 18:15,Wine/Champagne,Red Blend,80
+6/26/19 18:15,Wine/Champagne,Pinot Noir,81
+6/26/19 18:16,Wine/Champagne,Rose (La Vieille Ferme),89
+6/26/19 18:16,Wine/Champagne,Pinot Noir,80
+6/26/19 18:16,Wine/Champagne,Malbec,83
+6/26/19 18:17,Wine/Champagne,Sauvignon Blanc,95
+6/26/19 18:17,Wine/Champagne,Champagne - Brut,94
+6/26/19 18:18,Wine/Champagne,Rose (La Vieille Ferme),95
+6/26/19 18:18,Wine/Champagne,Rose (La Vieille Ferme),85
+6/26/19 18:18,Wine/Champagne,Champagne - Brut,79
+6/26/19 18:20,Wine/Champagne,Rose (La Vieille Ferme),90
+6/26/19 18:20,Wine/Champagne,Champagne - Brut,82
+6/26/19 18:20,Wine/Champagne,Champagne - Brut,82
+6/26/19 18:20,Wine/Champagne,Red Blend,93
+6/26/19 18:21,Wine/Champagne,Malbec,80
+6/26/19 18:31,Wine/Champagne,Malbec,84
+6/26/19 18:31,Wine/Champagne,Garnacha (Vina Zorzal),85
+6/26/19 18:32,Wine/Champagne,Garnacha (Vina Zorzal),91
+6/26/19 18:32,Wine/Champagne,Rose (La Vieille Ferme),80
+6/26/19 18:33,Wine/Champagne,Garnacha (Vina Zorzal),80
+6/26/19 18:33,Wine/Champagne,Sauvignon Blanc,83
+6/26/19 18:36,Wine/Champagne,Sauvignon Blanc,80
+6/26/19 18:37,Wine/Champagne,Chardonnay,87
+6/26/19 18:38,Wine/Champagne,Rose (La Vieille Ferme),87
+6/26/19 18:38,Wine/Champagne,Chardonnay - Cambria,85
+6/26/19 18:38,Wine/Champagne,Chardonnay - Cambria,85
+6/26/19 18:39,Wine/Champagne,Chardonnay - Cambria,80
+6/26/19 18:39,Wine/Champagne,Chardonnay - Butter,83
+6/26/19 18:39,Wine/Champagne,Garnacha (Vina Zorzal),87
+6/26/19 18:39,Wine/Champagne,Chardonnay - La Crema,81
+6/26/19 18:40,Wine/Champagne,Garnacha (Vina Zorzal),82
+6/26/19 18:40,Wine/Champagne,Chardonnay - Cambria,81
+6/26/19 18:40,Wine/Champagne,Garnacha (Vina Zorzal),82
+6/26/19 18:40,Wine/Champagne,Malbec,94
+6/26/19 18:40,Wine/Champagne,Pinot Noir,90
+6/26/19 18:40,Wine/Champagne,Garnacha (Vina Zorzal),80
+6/26/19 18:40,Wine/Champagne,Garnacha (Vina Zorzal),82
+6/26/19 18:40,Wine/Champagne,Pinot Noir,80
+6/26/19 18:40,Wine/Champagne,Champagne - Brut,87
+6/26/19 18:41,Wine/Champagne,Garnacha (Vina Zorzal),89
+6/26/19 18:42,Wine/Champagne,Chardonnay - Cambria,85
+6/26/19 18:43,Wine/Champagne,Chardonnay - Butter,95
+6/26/19 18:43,Wine/Champagne,Chardonnay - Kendall Jackson,95
+6/26/19 18:43,Wine/Champagne,Malbec,80
+6/26/19 18:44,Wine/Champagne,Red Blend,84
+6/26/19 18:48,Wine/Champagne,Chardonnay - Kendall Jackson,84
+6/26/19 18:49,Wine/Champagne,Garnacha (Vina Zorzal),85
+6/26/19 18:52,Wine/Champagne,Red Blend,80
+6/26/19 18:52,Wine/Champagne,Garnacha (Vina Zorzal),80
+6/26/19 18:53,Wine/Champagne,Malbec,90
+6/26/19 18:53,Wine/Champagne,Chardonnay - Butter,85
+6/26/19 18:54,Wine/Champagne,Champagne - Brut,98
+6/26/19 18:52,Non-Alcoholic,Blood Orange Pellegrino's,88
